@@ -13,7 +13,6 @@ body {
     padding: 0.5rem;
 }
 
-
 .sidebar {
     background-color: #000;
     width: 340px;
@@ -22,7 +21,6 @@ body {
     margin-right: 0.5rem;
     border: 1rem;
 }
-
 
 .main-content {
     background-color: #121212;
@@ -158,7 +156,6 @@ a {
     margin-left: 0.75rem;
 }
 
-
 .sticky-nav-options {
     display: flex;
     justify-content: center;
@@ -178,7 +175,6 @@ a {
         display: none;
     }
 }
-
 
 .card {
     background-color: #232323;
@@ -237,10 +233,6 @@ a {
     width: 60%;
 }
 
-.controls {
-    width: 20%;
-}
-
 .player-controls {
     display: flex;
     justify-content: center;
@@ -264,7 +256,6 @@ a {
 
 }
 
-
 .progress-bar {
     width: 70%;
     appearance: none;
@@ -277,7 +268,6 @@ a {
     border-radius: 100px;
     height: 0.2rem;
 }
-
 
 .progress-bar::-webkit-slider-thumb {
     appearance: none;
@@ -368,7 +358,6 @@ a {
 .display-btn:hover {
     opacity: 1;
 }
-
 
 .controls {
     display: flex;
